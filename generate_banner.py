@@ -384,9 +384,9 @@ INFO_ROWS = [
     ("Core.Infra", "GitHub, Vercel"),
     ("Grid.Mail", "akshaybendre@gmail.com"),
     ("Grid.Portfolio", "Coming soon"),
-    ("Grid.LinkedIn", "[ADD YOUR LINKEDIN URL]"),
+    ("Grid.LinkedIn", "in/akshay-bendre-40137b3b5"),
     ("Grid.GitHub", "github.com/AkshayBendre-03"),
-    ("Grid.Facebook", "[ADD YOUR FACEBOOK URL]")
+    ("Grid.Facebook", "fb.com/share/1cq3cif3nt")
 ]
 
 PANEL_X_START = 470

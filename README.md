@@ -47,11 +47,11 @@
 <!-- PHASE 4: SOCIAL BADGES (CLICKABLE & THEMED)   -->
 <!-- ============================================== -->
 <div align="center">
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/akshay-bendre-40137b3b5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/akshay__bendre" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   &nbsp;
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/share/1cq3cif3nt/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
   </a>
 </div>

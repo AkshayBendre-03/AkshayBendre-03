@@ -4677,8 +4677,8 @@
     </g>
     <g class="info-row">
       <text x="470" y="457" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">Grid.LinkedIn</text>
-      <text x="590" y="457" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" opacity="0.6">. . . . . . . . . . . . . . . . . . </text>
-      <text x="1140" y="457" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">[ADD YOUR LINKEDIN URL]</text>
+      <text x="590" y="457" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" opacity="0.6">. . . . . . . . . . . . . . . . </text>
+      <text x="1140" y="457" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">in/akshay-bendre-40137b3b5</text>
     </g>
     <g class="info-row">
       <text x="470" y="480" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">Grid.GitHub</text>
@@ -4688,7 +4688,7 @@
     <g class="info-row">
       <text x="470" y="503" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">Grid.Facebook</text>
       <text x="590" y="503" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" opacity="0.6">. . . . . . . . . . . . . . . . . . </text>
-      <text x="1140" y="503" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">[ADD YOUR FACEBOOK URL]</text>
+      <text x="1140" y="503" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">fb.com/share/1cq3cif3nt</text>
     </g>
 
   <!-- Footer Meta -->
