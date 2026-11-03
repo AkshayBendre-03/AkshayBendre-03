@@ -281,7 +281,7 @@
   <line x1="440" y1="38" x2="440" y2="610" stroke="#1E293B" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6" />
 
   <!-- ============================================== -->
-  <!-- LEFT PANEL: VISUAL.MAP & ANIMATED MORPH        -->
+  <!-- LEFT PANEL: VISUAL.MAP AND ANIMATED MORPH      -->
   <!-- ============================================== -->
   <g id="visual-map-header">
     <text x="65" y="76" class="section-label">VISUAL.MAP</text>
@@ -4581,7 +4581,7 @@
   </g>
 
   <!-- ============================================== -->
-  <!-- RIGHT PANEL: SYSTEM.INFO & READOUT             -->
+  <!-- RIGHT PANEL: SYSTEM.INFO AND READOUT           -->
   <!-- ============================================== -->
   <!-- Header Bar -->
   <g id="system-info-header">
@@ -4627,8 +4627,8 @@
     </g>
     <g class="info-row">
       <text x="470" y="227" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">Education</text>
-      <text x="590" y="227" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" opacity="0.6">. . . . . . </text>
-      <text x="1140" y="227" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">B.E. Computer Science & Engineering — REC Hulikoti</text>
+      <text x="590" y="227" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#334155" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" opacity="0.6">. . . . </text>
+      <text x="1140" y="227" text-anchor="end" fill="#F1F5F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">B.E. Computer Science &amp; Engineering - REC Hulikoti</text>
     </g>
     <g class="info-row">
       <text x="470" y="250" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">Status</text>

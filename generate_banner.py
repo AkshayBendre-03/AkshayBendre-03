@@ -1,6 +1,7 @@
 import os
 import sys
 import math
+import html
 import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter, ImageOps
 from scipy import ndimage
@@ -373,7 +374,7 @@ INFO_ROWS = [
     ("Subject", "Akshay Bendre"),
     ("Role", "CSE Student | Aspiring Software Developer"),
     ("Origin", "Hubli"),
-    ("Education", "B.E. Computer Science & Engineering — REC Hulikoti"),
+    ("Education", "B.E. Computer Science &amp; Engineering - REC Hulikoti"),
     ("Status", "Learning + Building + Shipping"),
     ("ToolChain", "VS Code, Git, GitHub, Python, Android Studio, Figma"),
     ("Core.Lang", "C, Python, JavaScript"),
@@ -607,7 +608,7 @@ def build_banner_svg(mode='dark'):
   <line x1="440" y1="38" x2="440" y2="610" stroke="{border_col}" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6" />
 
   <!-- ============================================== -->
-  <!-- LEFT PANEL: VISUAL.MAP & ANIMATED MORPH        -->
+  <!-- LEFT PANEL: VISUAL.MAP AND ANIMATED MORPH      -->
   <!-- ============================================== -->
   <g id="visual-map-header">
     <text x="{PORTRAIT_OFFSET_X}" y="76" class="section-label">VISUAL.MAP</text>
@@ -651,7 +652,7 @@ def build_banner_svg(mode='dark'):
   </g>
 
   <!-- ============================================== -->
-  <!-- RIGHT PANEL: SYSTEM.INFO & READOUT             -->
+  <!-- RIGHT PANEL: SYSTEM.INFO AND READOUT           -->
   <!-- ============================================== -->
   <!-- Header Bar -->
   <g id="system-info-header">
